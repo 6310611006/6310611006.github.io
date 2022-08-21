@@ -1,7 +1,7 @@
 My Introduction
 -
 
-![profile](Image1.png)
+<img src="https://firebasestorage.googleapis.com/v0/b/cn331-4a032.appspot.com/o/11zon_cropped.png?alt=media&token=17ed3cd4-4ba3-443d-84fc-e26fb0d4deaa" alt="Profile" width="200"/>
 
 **Name**
 > - **Wongsakron Kongkamud**
